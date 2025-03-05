@@ -9,7 +9,7 @@ pip install requests
 pip install bs4
 pip install future
 rm -rf proxy
-git clone https://github.com/BABASEc1/proxy.git
+git clone https://github.com/BABASEc1/Proxify.git
 cd Bin
 git pull 
 python proxy.py
